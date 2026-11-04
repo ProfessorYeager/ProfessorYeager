@@ -31,9 +31,9 @@ My view is simple: AI adoption is a teaching problem as much as a technology pro
 
 ## 🧰 Tools & Technologies
 
-**Languages:** Python, Java, JavaScript, TypeScript, Bash, HTML/CSS
-**AI & Dev:** Claude, Cursor, Antigravity, VS Code, GitHub, Supabase, Docker
-**Security:** Kali Linux, Nmap, Burp Suite, Splunk, Wireshark
+**Languages:** Python, Java, JavaScript, TypeScript, Bash, HTML/CSS<br>
+**AI & Dev:** Claude, Cursor, Antigravity, VS Code, GitHub, Supabase, Docker<br>
+**Security:** Kali Linux, Nmap, Burp Suite, Splunk, Wireshark<br>
 **LMS:** Blackboard, Canvas, Brightspace
 
 ---
@@ -41,27 +41,27 @@ My view is simple: AI adoption is a teaching problem as much as a technology pro
 ## 📌 Featured Projects
 
 ### 🎛️ DeckTunes for Spotify
-Spotify controls for the FIFINE AmpliGame D6 and other StreamDock decks on macOS: playlist keys with cover art, a now-playing display, and animated keys. Open source under the MIT license.
-**Tech:** JavaScript (Node), Python, Spotify Web API
+Spotify controls for the FIFINE AmpliGame D6 and other StreamDock decks on macOS: playlist keys with cover art, a now-playing display, and animated keys. Open source under the MIT license.<br>
+**Tech:** JavaScript (Node), Python, Spotify Web API<br>
 👉 [DeckTunes](https://github.com/ProfessorYeager/DeckTunes)
 
 ### 🎄 Advent of Cyber 2025
-A tutorial site with walkthroughs and solutions for TryHackMe's 2025 Advent of Cyber challenges.
-**Tech:** JavaScript, HTML/CSS
+A tutorial site with walkthroughs and solutions for TryHackMe's 2025 Advent of Cyber challenges.<br>
+**Tech:** JavaScript, HTML/CSS<br>
 👉 [advent_of_cyber_2025](https://github.com/ProfessorYeager/advent_of_cyber_2025)
 
 ### 🐍 PyQuest
-A game for learning Python through gamified challenges.
-**Tech:** TypeScript, Python
+A game for learning Python through gamified challenges.<br>
+**Tech:** TypeScript, Python<br>
 👉 [PyQuest](https://github.com/ProfessorYeager/PyQuest)
 
 ### 📓 AI Build Journal
-A running journal of building a fitness app with an AI coding agent: what worked, what didn't, and what I learned.
-**Tech:** Python, Antigravity
+A running journal of building a fitness app with an AI coding agent: what worked, what didn't, and what I learned.<br>
+**Tech:** Python, Antigravity<br>
 👉 [github_repo_ai_journal](https://github.com/ProfessorYeager/github_repo_ai_journal)
 
 ### 🔐 TryHackMe Security Engineer Path
-Walkthroughs and work samples from the TryHackMe Security Engineer learning path.
+Walkthroughs and work samples from the TryHackMe Security Engineer learning path.<br>
 👉 [thm-sec-engineer](https://github.com/ProfessorYeager/thm-sec-engineer)
 
 ---
@@ -87,8 +87,8 @@ I've taught AP Cybersecurity, AP Computer Science A, AP Computer Science Princip
 
 ## 🔗 Connect
 
-**LinkedIn:** [linkedin.com/in/gabrielhyeager](https://www.linkedin.com/in/gabrielhyeager)
-**Link Hub:** [linktr.ee/gabrielyeager](https://linktr.ee/gabrielyeager)
+**LinkedIn:** [linkedin.com/in/gabrielhyeager](https://www.linkedin.com/in/gabrielhyeager)<br>
+**Link Hub:** [linktr.ee/gabrielyeager](https://linktr.ee/gabrielyeager)<br>
 **Email:** [GabrielYeager@gmail.com](mailto:GabrielYeager@gmail.com)
 
 Let's build something useful, in education, AI, or security.
